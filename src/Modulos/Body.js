@@ -48,7 +48,8 @@ class Body extends Component {
                                 width: "200px",
                                 height: "300px"
                             }}
-                        /
+                        />
+                        
                     </figure>
 
                 <figure style={{
